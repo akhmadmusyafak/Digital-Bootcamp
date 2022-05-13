@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_kembali_login_disini</name>
+   <tag></tag>
+   <elementGuidId>2efe4833-7745-44fc-bbea-e29828bd95e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.login-footer-link.text-decoration-none > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>2c05d7be-22ad-410f-b2ad-0ef47793e50d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>di sini</value>
+      <webElementGuid>f681046b-8897-4a3a-9e81-ee7e9b400a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;vh-100 m-0 d-flex align-items-center container-fluid&quot;]/div[@class=&quot;w-100 row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;login-form-container bg-white ms-auto me-0 container&quot;]/div[@class=&quot;text-center p-0 fsz-075 container-fluid&quot;]/a[@class=&quot;login-footer-link text-decoration-none&quot;]/b[1]</value>
+      <webElementGuid>d0e60529-8b44-46a1-b876-b0fc529158e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/a/b</value>
+      <webElementGuid>5301f445-6f46-45eb-b129-fee61aeaa33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses'])[1]/following::b[1]</value>
+      <webElementGuid>3dd9ff0d-d08a-4217-bc19-99c23645093e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::b[1]</value>
+      <webElementGuid>2c9a1704-abb3-42fc-a211-87a0e82d932e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/preceding::b[2]</value>
+      <webElementGuid>158a9230-59af-47e2-a5c8-501f6df0cf79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='di sini']/parent::*</value>
+      <webElementGuid>22ed4d67-c2bd-4260-be60-4dbfab40148a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/b</value>
+      <webElementGuid>9a196096-6b48-44a8-92b0-761cb273f371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'di sini' or . = 'di sini')]</value>
+      <webElementGuid>7842b487-2239-47d7-a5d5-e90768df7458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
