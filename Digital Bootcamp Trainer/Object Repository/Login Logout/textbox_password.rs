@@ -6,12 +6,16 @@
    <elementGuidId>43f01d70-3b67-4e82-b587-e176315531e7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='passwordField']</value>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Masukkan Sandi' and @type = 'password' and @id = 'passwordField']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#passwordField</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='passwordField']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bdd31f66-ee1e-4a3d-a387-cf34aecd6d1d</webElementGuid>
+      <webElementGuid>9ad46b2b-f73a-410d-9a50-459fc98c8049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan Sandi</value>
-      <webElementGuid>a079ffb5-c265-44ac-b261-24d642643795</webElementGuid>
+      <webElementGuid>be878ee2-e861-448e-b735-4f7b45a03b22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>078bd490-8a98-4479-9c48-f711e3846243</webElementGuid>
+      <webElementGuid>3b8f0922-769b-4f22-a84b-52421e80607b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>passwordField</value>
-      <webElementGuid>d62e2b44-a5f7-4425-8e4d-ce0368296637</webElementGuid>
+      <webElementGuid>bdc0fff1-9030-49c4-8781-1b55fc57d397</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login-form-element border-end-0 form-control</value>
-      <webElementGuid>b4bd9b52-e198-473b-abb8-95cdae7a2caa</webElementGuid>
+      <webElementGuid>42eb42f4-7e69-4a6d-8d18-5e49e58c15f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;passwordField&quot;)</value>
-      <webElementGuid>2edd81da-9ffd-46eb-b1e0-ca3c7117a829</webElementGuid>
+      <webElementGuid>1cf4409b-8d62-41a5-b654-28da34df20f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='passwordField']</value>
-      <webElementGuid>c883491f-367c-422a-a044-d83d184291d6</webElementGuid>
+      <webElementGuid>c0c1b93a-a169-42f6-b44a-510448e7ed9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/form/div[2]/div/input</value>
-      <webElementGuid>ae03d25e-0b42-40c4-99f2-321fdda66e86</webElementGuid>
+      <webElementGuid>d7b66955-2eb3-469b-8b4a-1e31093a5b84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>876ec409-b34e-4ae7-aea6-e236d9fc393c</webElementGuid>
+      <webElementGuid>00bfbc86-47d8-44f5-a2b6-5748d6c71b55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Masukkan Sandi' and @type = 'password' and @id = 'passwordField']</value>
-      <webElementGuid>3abf3bea-22c2-43de-bcd0-3b7b01e269ba</webElementGuid>
+      <webElementGuid>5698b358-ed80-4c5b-86b4-1199321be04b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

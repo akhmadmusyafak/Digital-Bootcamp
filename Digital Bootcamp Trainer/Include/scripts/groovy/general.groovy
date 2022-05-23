@@ -44,22 +44,21 @@ import cucumber.api.java.en.When
 import com.kms.katalon.core.configuration.RunConfiguration
 
 class general {
-	
+
 	@Given("User membuka aplikasi web Digital Bootcamp Trainer untuk (.*)")
 	def User_membuka_aplikasi_web_Digital_Bootcamp_Trainer(String row) {
 		GlobalVariable.row = row
 		GlobalVariable.dirProject = RunConfiguration.getProjectDir()
-		WebUI.callTestCase(findTestCase('Login/Buka aplikasi'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('Otentikasi/Buka aplikasi'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@When("User Login")
 	def User_Login() {
-		WebUI.callTestCase(findTestCase('Login/Login Normal'), [:], FailureHandling.STOP_ON_FAILURE)
-	}
-	
-	@Then("User Logout")
-	def User_Logout() {
-		WebUI.callTestCase(findTestCase('Login/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('Otentikasi/Login Normal'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
+	@Then("User Logout")
+	def User_Logout() {
+		WebUI.callTestCase(findTestCase('Otentikasi/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
 }
