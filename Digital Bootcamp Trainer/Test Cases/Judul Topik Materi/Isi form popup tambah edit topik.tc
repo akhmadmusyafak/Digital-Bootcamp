@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Isi form popup tambah edit topik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8604cff-7938-4462-83cb-9255123f7bbf</testCaseGuid>
+   <variable>
+      <defaultValue>'E:\\\\Digital Bootcamp 79\\\\Digital-Bootcamp\\\\Digital Bootcamp Trainer\\\\DataSet\\\\java-logo.jpg'</defaultValue>
+      <description></description>
+      <id>29530949-b79b-46ff-a64f-934cf6250637</id>
+      <masked>false</masked>
+      <name>button</name>
+   </variable>
+</TestCaseEntity>

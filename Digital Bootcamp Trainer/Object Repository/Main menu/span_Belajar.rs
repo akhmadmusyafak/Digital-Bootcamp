@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Belajar</name>
+   <tag></tag>
+   <elementGuidId>b5dab184-4f6b-440e-9867-19416ade542f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/nav/div/div[7]/div/div/div/a/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>205ff64a-4771-4f62-84a3-f09c8a207919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Belajar</value>
+      <webElementGuid>a6455abe-66e6-4a24-bd74-0f6c2203d318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;vh-100 m-0 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;p-0 position-fixed col-lg-2&quot;]/nav[@class=&quot;flex-column bg-white vh-100 navbar navbar-expand navbar-light&quot;]/div[@class=&quot;flex-column w-100 fsz-1125 accordion navbar-nav nav-pills&quot;]/div[@class=&quot;w-100 accordion-item-nav accordion-item nav-item&quot;]/div[@class=&quot;accordion-collapse collapse show&quot;]/div[@class=&quot;accordion-body-nav p-0 accordion-body&quot;]/div[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link ps-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-auto&quot;]/span[1]</value>
+      <webElementGuid>25a71d12-df95-474f-a4b5-a985fe8a2ac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/nav/div/div[7]/div/div/div/a/div/div/span</value>
+      <webElementGuid>705267eb-8e2e-47ee-a9b6-7eee502811a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan'])[1]/following::span[1]</value>
+      <webElementGuid>1b76399b-d8f2-4603-aff5-53f08a30a33b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Praktik'])[1]/following::span[2]</value>
+      <webElementGuid>62011111-39e1-4519-8a11-623fd0726ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai'])[1]/preceding::span[1]</value>
+      <webElementGuid>f3c58238-77c7-42b3-a6bc-4df0b537cfae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trainer79'])[1]/preceding::span[2]</value>
+      <webElementGuid>4a9bb903-a975-4497-b0b4-8f3f95f08ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Belajar']/parent::*</value>
+      <webElementGuid>1cb22487-b78d-42d2-97d3-56479da3c0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/a/div/div/span</value>
+      <webElementGuid>5dc8c022-002d-44a9-a896-5e92c15d4a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Belajar' or . = 'Belajar')]</value>
+      <webElementGuid>33d3d14d-22b1-40cf-a7ad-0e33a22db70e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

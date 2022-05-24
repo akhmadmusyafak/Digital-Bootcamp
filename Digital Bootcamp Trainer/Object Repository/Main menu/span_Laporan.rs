@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Laporan</name>
+   <tag></tag>
+   <elementGuidId>3169cced-8c2c-4831-96f9-a25066fd3c34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/nav/div/div[7]/h2/button/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e577b6b-4092-4820-9826-fc7834b43a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporan</value>
+      <webElementGuid>d3204c6d-9b9f-4c2f-9e6b-b7c9e82dffb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;vh-100 m-0 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;p-0 position-fixed col-lg-2&quot;]/nav[@class=&quot;flex-column bg-white vh-100 navbar navbar-expand navbar-light&quot;]/div[@class=&quot;flex-column w-100 fsz-1125 accordion navbar-nav nav-pills&quot;]/div[@class=&quot;w-100 accordion-item-nav accordion-item nav-item&quot;]/h2[@class=&quot;accordion-header-nav accordion-header&quot;]/button[@class=&quot;accordion-button&quot;]/div[@class=&quot;fsz-1125 row&quot;]/div[@class=&quot;accordion-item-header col-lg-auto&quot;]/span[1]</value>
+      <webElementGuid>cdec9bf4-ccea-47b9-a500-b9fc53d5a4bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/nav/div/div[7]/h2/button/div/div[2]/span</value>
+      <webElementGuid>6be7d7e7-16d4-4342-bf40-baab986a3862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Praktik'])[1]/following::span[1]</value>
+      <webElementGuid>13def360-6959-4ed0-afba-ab139de58c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Kemampuan'])[1]/following::span[2]</value>
+      <webElementGuid>3379466b-cd7d-4a77-931e-ac4467dffbc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belajar'])[1]/preceding::span[1]</value>
+      <webElementGuid>244ab281-837d-4cee-9c64-a9804e7233aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai'])[1]/preceding::span[2]</value>
+      <webElementGuid>1412dc8b-5e06-4c8e-9a48-e19194a5b6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laporan']/parent::*</value>
+      <webElementGuid>01b012a3-9d61-4150-9a89-2c5f18f96351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/h2/button/div/div[2]/span</value>
+      <webElementGuid>9b77eef9-dd68-4545-b40e-bb5f4550db32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Laporan' or . = 'Laporan')]</value>
+      <webElementGuid>f9cd5861-a9f4-4ae3-b691-ab60a9ebfc66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
