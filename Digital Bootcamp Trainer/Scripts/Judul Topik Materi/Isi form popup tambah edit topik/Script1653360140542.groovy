@@ -35,8 +35,11 @@ WebUI.delay(15)
 //WebUI.uploadFileWithDragAndDrop(findTestObject('Daftar Topik/Tambah topik/button_Upload'), button)
 WebUI.setText(findTestObject('Daftar Topik/Tambah topik/textarea_deskripsi_materi'), deskripsi)
 
-WebUI.setText(findTestObject('Daftar Topik/Tambah topik/input_tag'), tags)
-WebUI.sendKeys(findTestObject('Daftar Topik/Tambah topik/input_tag'), Keys.chord(Keys.ENTER))
+String[] arrayTags = tags.split(",")
+for(String tag : arrayTags) {
+	WebUI.setText(findTestObject('Daftar Topik/Tambah topik/input_tag'), tag)
+	WebUI.sendKeys(findTestObject('Daftar Topik/Tambah topik/input_tag'), Keys.chord(Keys.ENTER))
+}
 
 WebUI.setText(findTestObject('Daftar Topik/Tambah topik/input_Tingkatan'), tingkatan)
 WebUI.sendKeys(findTestObject('Daftar Topik/Tambah topik/input_Tingkatan'), Keys.chord(Keys.ENTER))

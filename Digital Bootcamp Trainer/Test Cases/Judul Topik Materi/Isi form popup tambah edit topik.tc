@@ -5,6 +5,12 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b8604cff-7938-4462-83cb-9255123f7bbf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29530949-b79b-46ff-a64f-934cf6250637</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'E:\\\\Digital Bootcamp 79\\\\Digital-Bootcamp\\\\Digital Bootcamp Trainer\\\\DataSet\\\\java-logo.jpg'</defaultValue>
       <description></description>

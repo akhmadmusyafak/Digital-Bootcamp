@@ -17,12 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-if(save.toString().equals('Save')) {
-	WebUI.click(findTestObject('Daftar Topik/Tambah topik/button_Simpan'))
-} else {
-	WebUI.click(findTestObject('Daftar Topik/Tambah topik/button_Batal'))
-}
-WebUI.delay(2)
-
-WebUI.takeFullPageScreenshotAsCheckpoint((((GlobalVariable.Screenshot + GlobalVariable.todayDate) + '/') + GlobalVariable.nowTime + '/') + 'simpan tambah/edit topik.png', FailureHandling.STOP_ON_FAILURE)
-WebUI.delay(2)
+CucumberKW.runFeatureFileWithTags('Include/features/Judul Topik.feature', '@topik', '@membuat_materi_008')
