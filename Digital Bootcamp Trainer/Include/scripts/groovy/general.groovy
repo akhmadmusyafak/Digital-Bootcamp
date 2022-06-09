@@ -61,4 +61,9 @@ class general {
 	def User_Logout() {
 		WebUI.callTestCase(findTestCase('Otentikasi/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
+	
+	@Then("User Klik menu (.*)")
+	def User_Klik_menu(String menu) {
+		WebUI.callTestCase(findTestCase('Otentikasi/Pilih menu'), [('menu') : menu], FailureHandling.STOP_ON_FAILURE)
+	}
 }

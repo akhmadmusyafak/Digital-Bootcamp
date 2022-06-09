@@ -19,8 +19,8 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.keyword.excel.ExcelKeywords
 
 def workBook = ExcelKeywords.getWorkbook( GlobalVariable.dirProject + "\\DataSet\\" + GlobalVariable.dataTrainer)
-def sheet = ExcelKeywords.getExcelSheet(workBook,'Topik')
-int id = ExcelKeywords.getCellValueByAddress(sheet, 'A' + GlobalVariable.row)
+def sheet = ExcelKeywords.getExcelSheet(workBook, GlobalVariable.menu)
+
 String topik = ExcelKeywords.getCellValueByAddress(sheet, 'B' + GlobalVariable.row)
 String thumbnail = ExcelKeywords.getCellValueByAddress(sheet, 'C' + GlobalVariable.row)
 String deskripsi = ExcelKeywords.getCellValueByAddress(sheet, 'D' + GlobalVariable.row)

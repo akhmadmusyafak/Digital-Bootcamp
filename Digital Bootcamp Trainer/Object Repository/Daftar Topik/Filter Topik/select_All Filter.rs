@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_All Filter</name>
+   <tag></tag>
+   <elementGuidId>b51c5d44-42ac-468f-b393-4ba5570b0d1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div[2]/div[2]/div/div[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bcb0140d-501b-4d39-8029-07ad0dc88404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Filter</value>
+      <webElementGuid>09d0467a-659d-4ad6-9849-a77e6add751e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select</value>
+      <webElementGuid>5c51df34-4641-4cf0-ab29-5b00494ead6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All FilterJudul/TopikTingkatanVisibilitasTag</value>
+      <webElementGuid>1dc95885-71e6-47c1-bbdd-ca6edc42821a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;vh-100 m-0 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;px-0 pb-5 col-lg-10 offset-lg-2&quot;]/div[@class=&quot;bg-white rounded p-5 mt-5 container&quot;]/div[@class=&quot;my-2 row&quot;]/div[@class=&quot;col-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-3&quot;]/select[@class=&quot;form-select&quot;]</value>
+      <webElementGuid>1c2439d9-de95-41bc-9812-2d53d0edfefa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div[2]/div[2]/div/div[2]/select</value>
+      <webElementGuid>8133bc4a-3a1f-41b3-bbd9-727089707b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/following::select[1]</value>
+      <webElementGuid>e204a632-ad79-4a61-941e-f19256910627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topik Digital Bootcamp 79'])[1]/following::select[1]</value>
+      <webElementGuid>4ab65642-9349-415a-b4f8-748891330bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customize'])[1]/preceding::select[1]</value>
+      <webElementGuid>e9ce0721-5618-4638-ab55-d592bed6d148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::select[1]</value>
+      <webElementGuid>b1356b4c-db4e-41ef-9e00-80fc5e96af49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a9d9edbe-7a2c-4547-8087-1afb81b56201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@placeholder = 'Filter' and (text() = 'All FilterJudul/TopikTingkatanVisibilitasTag' or . = 'All FilterJudul/TopikTingkatanVisibilitasTag')]</value>
+      <webElementGuid>e33dd92c-adb8-4856-9586-9a59d8fbdb2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

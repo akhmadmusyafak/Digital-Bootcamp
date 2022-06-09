@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Menu</name>
+   <tag></tag>
+   <elementGuidId>9f162dcd-c750-4b3c-ac21-f0bcb32725be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/nav/div/div[2]/a/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${value}' or . = '${value}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb670d4c-bbe5-4972-b552-218a15d5e3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${value}</value>
+      <webElementGuid>45079cc9-6b34-4f05-a48f-80b842c74e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;vh-100 m-0 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;p-0 position-fixed col-lg-2&quot;]/nav[@class=&quot;flex-column bg-white vh-100 navbar navbar-expand navbar-light&quot;]/div[@class=&quot;flex-column w-100 fsz-1125 accordion navbar-nav nav-pills&quot;]/div[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link ps-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-auto&quot;]/span[1]</value>
+      <webElementGuid>4b926af1-e8da-4e96-ab63-cc8087b3805e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/nav/div/div[2]/a/div/div[2]/span</value>
+      <webElementGuid>54b4b079-a49a-4db4-ba7f-cc319a3a29ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Topik'])[1]/following::span[1]</value>
+      <webElementGuid>3fb2aeb0-0937-42cc-bceb-1e5fba6893dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Bab'])[1]/preceding::span[1]</value>
+      <webElementGuid>01bac740-4ebd-4aec-b887-b5f2ab49c6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Materi'])[1]/preceding::span[2]</value>
+      <webElementGuid>b45c5d88-cd4e-40c1-b858-a00f73d6b2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Bab']/parent::*</value>
+      <webElementGuid>317eb267-cc94-420b-9fb5-4c9ba8be3ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/div[2]/span</value>
+      <webElementGuid>d1f2071a-8d14-4750-a3ad-abd0f9e67f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Daftar Bab' or . = 'Daftar Bab')]</value>
+      <webElementGuid>4e5899b5-f2db-459a-ace5-6e5cfba3866a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

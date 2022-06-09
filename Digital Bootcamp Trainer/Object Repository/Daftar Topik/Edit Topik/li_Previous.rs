@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Previous</name>
+   <tag></tag>
+   <elementGuidId>a3ab0503-e38d-418c-a4b9-2c94e6fe7abd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.page-item.disabled</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div[3]/div/div[2]/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a217fcc9-358c-4d17-bfe6-1fae7f0dd4f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-item disabled</value>
+      <webElementGuid>19142076-5e6d-4034-b4ff-b0940b9b50e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>‹Previous</value>
+      <webElementGuid>c73a64fa-87fc-44fe-9b33-fcfa09b2a8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;vh-100 m-0 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;px-0 pb-5 col-lg-10 offset-lg-2&quot;]/div[@class=&quot;bg-white rounded p-5 mt-5 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;justify-content-end row&quot;]/div[@class=&quot;col-auto&quot;]/ul[@class=&quot;pagination&quot;]/li[@class=&quot;page-item disabled&quot;]</value>
+      <webElementGuid>30fb8f8f-29fd-41c6-b3e7-6e603d12773a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div[3]/div/div[2]/ul/li</value>
+      <webElementGuid>0ef6798a-ab19-42fd-8246-47a83429fe94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAVA, FUNDAMENTAL, INPUT'])[1]/following::li[1]</value>
+      <webElementGuid>9e9b4311-269a-4e50-a195-447a02f53d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publik'])[3]/following::li[1]</value>
+      <webElementGuid>63812cd5-9d36-41fb-9cb2-7996c7b903eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::li[1]</value>
+      <webElementGuid>9c3ba07c-bda3-4af1-9bc3-947a9656b923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li</value>
+      <webElementGuid>e313de91-d845-4c79-9da2-574ac686a5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '‹Previous' or . = '‹Previous')]</value>
+      <webElementGuid>0e735b77-53ed-4ca1-b55e-17685666ed06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

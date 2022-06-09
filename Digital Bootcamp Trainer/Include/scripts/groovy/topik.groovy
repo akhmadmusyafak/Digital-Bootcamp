@@ -58,4 +58,34 @@ class topik {
 	def User_Klik_button_Save_Topik(String save) {
 		WebUI.callTestCase(findTestCase('Judul Topik Materi/Klik Simpan'), [('save') : save], FailureHandling.STOP_ON_FAILURE)
 	}
+
+	@And("User Klik button Edit Topik")
+	def User_Klik_button_Edit_Topik() {
+		WebUI.callTestCase(findTestCase('Judul Topik Materi/Klik Edit topik'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User Klik button Delete Topik")
+	def User_Klik_button_Delete_Topik() {
+		WebUI.callTestCase(findTestCase('Daftar Bab/Klik Delete bab'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User Pilih button Delete (.*)")
+	def User_Pilih_button_Delete(String delete) {
+		WebUI.callTestCase(findTestCase('Judul Topik Materi/Klik Delete'), [('delete') : delete], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User Pilih button Confirm Delete (.*)")
+	def User_Pilih_button_Confirm_Delete(String confirm) {
+		WebUI.callTestCase(findTestCase('Judul Topik Materi/Klik Confirm Delete'), [('confirm') : confirm], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User Mengubah Visibilitas Judul Topik")
+	def User_Mengubah_Visibilitas_Judul_Topik() {
+		WebUI.callTestCase(findTestCase('Judul Topik Materi/Edit Visibilitas'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@And("User Input Kata Kunci Pencarian Judul Topik dan Ubah Filter Pencarian Judul Topik (.*)")
+	def User_Mengubah_Filter_Pencarian_Judul_Topik(String filter) {
+		WebUI.callTestCase(findTestCase('Judul Topik Materi/Isi kata kunci'), [('filter') : filter], FailureHandling.STOP_ON_FAILURE)
+	}
 }

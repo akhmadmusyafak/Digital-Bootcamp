@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_show_rows</name>
+   <tag></tag>
+   <elementGuidId>f06cbfc6-2134-4eb5-8ab7-8a8719c8b9ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-auto > select.form-select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div[3]/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e67b5883-756e-4286-856b-29bc26d005e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select</value>
+      <webElementGuid>44c76e42-7294-45c6-9433-0735c87f7367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show 5 RowsShow 10 RowsShow 20 RowsShow 30 RowsShow 40 RowsShow 50 Rows</value>
+      <webElementGuid>963ed3a6-988b-4d9b-9ca1-9e565348f0bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;vh-100 m-0 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;px-0 pb-5 col-lg-10 offset-lg-2&quot;]/div[@class=&quot;bg-white rounded p-5 mt-5 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;justify-content-end row&quot;]/div[@class=&quot;col-auto&quot;]/select[@class=&quot;form-select&quot;]</value>
+      <webElementGuid>437769e3-c0ce-47f8-bd65-ee575191b7b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div[3]/div/div/select</value>
+      <webElementGuid>0059ba47-050c-4f77-a2ba-65ca0effc494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAVA, FUNDAMENTAL, INPUT'])[1]/following::select[1]</value>
+      <webElementGuid>96f12f93-f33f-4725-9604-9116cc4e02a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publik'])[3]/following::select[1]</value>
+      <webElementGuid>561c1e47-00b5-4999-b52e-af9fb0553d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::select[1]</value>
+      <webElementGuid>3a37fd0e-ed04-42e2-98e6-fa240f2c5850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::select[1]</value>
+      <webElementGuid>9f56e212-66e3-45d7-bb0f-2724ed2a7e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/select</value>
+      <webElementGuid>4ddec1f1-58e7-491b-a177-3fc957cf03a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Show 5 RowsShow 10 RowsShow 20 RowsShow 30 RowsShow 40 RowsShow 50 Rows' or . = 'Show 5 RowsShow 10 RowsShow 20 RowsShow 30 RowsShow 40 RowsShow 50 Rows')]</value>
+      <webElementGuid>88519093-14d8-469a-9c3b-e815bf918818</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
