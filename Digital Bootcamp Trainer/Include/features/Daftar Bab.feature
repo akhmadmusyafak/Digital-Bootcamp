@@ -135,8 +135,8 @@ Feature: Daftar Bab
       | row | menu       | save |
       |  11 | Daftar Bab | Save |
 
-  @mengubah_materi_003
-  Scenario Outline: Trainer mengubah judul/topik dengan judul bab dikosongkan
+  @mengubah_bab_003
+  Scenario Outline: Trainer mengubah bab dengan judul bab dikosongkan
     Given User membuka aplikasi web Digital Bootcamp Trainer untuk <row>
     When User Login
     And User Klik menu <menu>
@@ -148,8 +148,8 @@ Feature: Daftar Bab
       | row | menu       | save |
       |  12 | Daftar Bab | Save |
 
-  @mengubah_materi_004
-  Scenario Outline: Trainer mengubah judul/topik dengan deskripsi bab dikosongkan
+  @mengubah_bab_004
+  Scenario Outline: Trainer mengubah bab dengan deskripsi bab dikosongkan
     Given User membuka aplikasi web Digital Bootcamp Trainer untuk <row>
     When User Login
     And User Klik menu <menu>
@@ -161,8 +161,8 @@ Feature: Daftar Bab
       | row | menu       | save |
       |  13 | Daftar Bab | Save |
 
-  @mengubah_materi_005
-  Scenario Outline: Trainer mengubah judul/topik dengan tag dikosongkan
+  @mengubah_bab_005
+  Scenario Outline: Trainer mengubah bab dengan tag dikosongkan
     Given User membuka aplikasi web Digital Bootcamp Trainer untuk <row>
     When User Login
     And User Klik menu <menu>
@@ -174,8 +174,8 @@ Feature: Daftar Bab
       | row | menu       | save |
       |  14 | Daftar Bab | Save |
 
-  @mengubah_materi_006
-  Scenario Outline: Trainer mengubah judul/topik dengan skala nilai dikosongkan
+  @mengubah_bab_006
+  Scenario Outline: Trainer mengubah bab dengan skala nilai dikosongkan
     Given User membuka aplikasi web Digital Bootcamp Trainer untuk <row>
     When User Login
     And User Klik menu <menu>
@@ -187,7 +187,7 @@ Feature: Daftar Bab
       | row | menu       | save |
       |  15 | Daftar Bab | Save |
 
-  @mengubah_materi_007
+  @mengubah_bab_007
   Scenario Outline: Trainer batal mengubah bab
     Given User membuka aplikasi web Digital Bootcamp Trainer untuk <row>
     When User Login
@@ -336,7 +336,7 @@ Feature: Daftar Bab
 
     Examples: 
       | row | menu       | filter |
-      |  25 | Daftar Bab | judul  |
+      |  25 | Daftar Bab | nama   |
 
   @mencari_bab_007
   Scenario Outline: Trainer mencari judul yang tidak ada dengan filter judul
@@ -348,7 +348,7 @@ Feature: Daftar Bab
 
     Examples: 
       | row | menu       | filter |
-      |  26 | Daftar Bab | judul  |
+      |  26 | Daftar Bab | nama   |
 
   @mencari_bab_008
   Scenario Outline: Trainer mencari topik dengan filter topik

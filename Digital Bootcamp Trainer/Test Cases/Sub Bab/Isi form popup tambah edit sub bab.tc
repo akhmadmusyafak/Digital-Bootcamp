@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Isi form popup tambah edit sub bab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82318501-e39e-4b83-936e-2db56410fae1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3534d5a7-a51d-432f-9d8b-e7d5b3291793</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'E:\\\\Digital Bootcamp 79\\\\Digital-Bootcamp\\\\Digital Bootcamp Trainer\\\\DataSet\\\\java-logo.jpg'</defaultValue>
+      <description></description>
+      <id>3534d5a7-a51d-432f-9d8b-e7d5b3291793</id>
+      <masked>false</masked>
+      <name>button</name>
+   </variable>
+</TestCaseEntity>

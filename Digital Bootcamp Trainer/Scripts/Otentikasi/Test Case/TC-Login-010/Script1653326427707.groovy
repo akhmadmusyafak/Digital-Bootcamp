@@ -17,4 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CucumberKW.runFeatureFileWithTags('Include/features/General/Login.feature', '@otentikasi', '@login_010')
+CucumberKW.runFeatureFileWithTags('Include/features/Login.feature', '@otentikasi', '@login_010')

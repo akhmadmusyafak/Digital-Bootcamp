@@ -46,7 +46,7 @@ while(notFoundYet) {
 	for(int i = 1; i <= sizeList; i++) {
 		if(numbers[i-1].getText().equals(number)) {
 			xpath = '//*[@id="root"]/div/div/div[2]/div[3]/div[3]/table/tbody/tr[' + i + ']/td[8]/svg[1]'
-			
+			WebUI.comment(xpath)
 			driver.findElement(By.xpath(xpath)).click()
 			WebUI.takeFullPageScreenshotAsCheckpoint(((((GlobalVariable.Screenshot + GlobalVariable.todayDate) + '/') + GlobalVariable.nowTime) +
 				'/') + 'bab dipilih.png', FailureHandling.STOP_ON_FAILURE)
