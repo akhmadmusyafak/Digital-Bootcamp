@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Isi form popup tambah edit materi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac1573bb-7a6b-43f3-b006-50e764297758</testCaseGuid>
+   <variable>
+      <defaultValue>'E:\\\\Digital Bootcamp 79\\\\Digital-Bootcamp\\\\Digital Bootcamp Trainer\\\\DataSet\\\\java-logo.jpg'</defaultValue>
+      <description></description>
+      <id>41222b50-8d76-466c-a93d-13fba9817463</id>
+      <masked>false</masked>
+      <name>button</name>
+   </variable>
+</TestCaseEntity>
