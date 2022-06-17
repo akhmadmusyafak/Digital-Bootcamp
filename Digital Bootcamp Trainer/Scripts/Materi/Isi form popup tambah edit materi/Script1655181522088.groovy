@@ -62,6 +62,6 @@ for(String tag : arrayTags) {
 WebUI.setText(findTestObject('Materi/Tambah Materi/input_skala_nilai'), skala)
 WebUI.delay(2)
 
-
 WebUI.takeFullPageScreenshotAsCheckpoint((((GlobalVariable.Screenshot + GlobalVariable.todayDate) + '/') + GlobalVariable.nowTime + '/') + 'pop up form tambah/edit video pembahasan.png', FailureHandling.STOP_ON_FAILURE)
 WebUI.delay(2)
+
